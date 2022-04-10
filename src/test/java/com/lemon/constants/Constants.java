@@ -13,7 +13,7 @@ import java.util.Map;
 public class Constants {
     //数据驱动excel路径
     //public static final String EXCEL_PATH = Constants.class.getClassLoader().getResource("./cases_v3.xlsx").getPath();
-    public static final String EXCEL_PATH = "D:\\code\\java19_auto_api_v8\\src\\test\\resources\\cases_v3.xlsx";
+    public static final String EXCEL_PATH = "src/test/resources/cases_v3.xlsx";
     //默认请求头
     public static final Map<String,String> HEADERS = new HashMap<>();
     //excel 响应回写列
